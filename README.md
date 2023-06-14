@@ -1,1 +1,1 @@
-
+This repository displays the use of normal elements in the html framework and selectors in CSS styling. It’s actually contains exercises, completed webpages, illustrations of hovering, transitioning, linking 1 webpage to another, using grids, flex-boxes, absolute/relative values, static values, use of navs, divs, spans, the use padding/border/margin properties just to name a few. Check it through.
