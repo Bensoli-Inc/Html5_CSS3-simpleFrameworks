@@ -1,0 +1,120 @@
+.morebuttons {
+  margin-bottom: 50px;
+font-size: 18px;
+background-color: rgb(227, 70, 70);
+color: white;
+text-align: center;
+padding-top: 18px;
+padding-bottom: 18px;
+max-width: 1000px;
+}
+
+.morreb {
+  text-decoration: underline;
+  margin-left: 12px;
+  border-radius: 17px;
+}
+.morreb:hover {
+background-color: white;
+padding: 5px 8px 8px 5px;
+cursor: pointer;
+}
+
+.subscribe-button {
+background-color: rgb(200, 0, 0);
+border: none;
+color: white;
+padding: 11px 17px 11px 17px;
+border-radius: 2px;
+cursor: pointer;
+margin-right: 15px;
+transition: opacity 0.15s;
+transition: box-shadow 0.15s;
+}
+
+.subscribe-button:hover {
+opacity: 0.7;
+box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.7);
+
+}
+.subscribe-button:active {
+opacity: 0.4;
+
+}
+.join-button {
+background-color: white;
+border-color: rgb(2, 100, 197);
+border-style: solid;
+padding: 11px 17px 11px 17px;
+border-width: 1px;
+color: rgb(2, 100, 197);
+padding: 12px;
+cursor: pointer;
+margin-right: 15px;
+transition: background-color 0.15s, color 0.15s;
+
+}
+
+.join-button:hover {
+background-color: rgb(2, 100, 197);
+color: white;
+}
+
+.join-button:active {
+opacity: 0.7;
+}
+
+.tweet-button {
+background-color: rgb(2, 110, 199);
+color: white;
+border: none;
+padding: 11px 17px 11px 17px;   
+border-radius: 17.9px;
+font-weight: bold;
+font-size: 15px;
+cursor: pointer;
+margin-left: 8px;
+box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.7);
+transition: background-color 0.15s, color 0.15s;
+opacity: 0.7s;
+
+}
+
+.tweet-button:hover {
+  background-color: white;
+  color: rgb(2, 110, 199);
+}
+
+.cart {
+  background-color: rgb(255, 251, 11);
+             height: 32px;
+             padding-left: 20px;
+             padding-right: 20px;
+             border-radius: 15.9px;
+             cursor: pointer;
+             border: none;
+             transition: 0.15s;
+             box-shadow: 5.9px 5.9px 5.9px black;
+
+}
+.cart:hover  {
+background-color: black;
+color: yellow;
+}
+
+.buy {
+background-color: rgb(248, 82, 22);
+             height: 32px;
+             padding-left: 20px;
+             padding-right: 20px;
+             border-radius: 15.9px;
+             cursor: pointer;
+             border: none;
+             transition: 0.15s;
+             box-shadow: 5.9px 5.9px 5.9px black;
+}
+
+.buy:hover {
+background-color: black;
+color:  rgb(248, 82, 22);
+}
